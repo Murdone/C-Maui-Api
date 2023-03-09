@@ -3,8 +3,9 @@
     "",
     "\\Sales2023-main",
     "\\Sales2023-main\\Sales2023-main",
-    "\\Sales2023-main\\Sales2023-main\\Sales.API"
+    "\\Sales2023-main\\Sales2023-main\\Sales.API",
+    "\\Sales2023-main\\Sales2023-main\\Sales.API\\Data"
   ],
-  "SelectedNode": "\\Sales2023-main\\Sales2023-main\\Sales.API\\Program.cs",
+  "SelectedNode": "\\Sales2023-main\\Sales2023-main\\Sales.API\\Data\\SeedDb.cs",
   "PreviewInSolutionExplorer": false
 }
