@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\Sales2023-main",
-    "\\Sales2023-main\\Sales2023-main"
+    "\\Sales2023-main\\Sales2023-main",
+    "\\Sales2023-main\\Sales2023-main\\Sales.API"
   ],
-  "SelectedNode": "\\Sales2023-main\\Sales2023-main\\Sales.sln",
+  "SelectedNode": "\\Sales2023-main\\Sales2023-main\\Sales.API\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
